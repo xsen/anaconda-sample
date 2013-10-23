@@ -27,7 +27,7 @@
 	url = git@github.com:kohana/unittest.git
 [submodule "modules/minion"]
 	path = modules/minion
-	url = http://github.com/kohana/minion.git
+	url = git@github.com:kohana/minion.git
 [submodule "anaconda/core"]
 	path = anaconda/core
 	url = git@github.com:xsen/anaconda-core.git
